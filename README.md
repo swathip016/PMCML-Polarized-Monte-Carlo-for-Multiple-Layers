@@ -12,7 +12,11 @@ The Fig 1. shows the 3 layer model we have considered with a slab geometry with 
 The Mueller matrix generated using this code has been analysed with different scattering, absorption coefficients, nanoparticles and wavelength.
 
 **RESULTS**
+The Mueller Matrix generated based on different optical properties is shown here.
+![Fig scat](https://user-images.githubusercontent.com/86607064/125185618-84955f00-e243-11eb-8119-10640f8a4e50.png)
 
+The results observed in the above figure is for different scattering coefficients for a 3 layered model described.
+For more, Ref:.........
 
 
 **INSTRUCTIONS FOR COMPILING AND EXECUTING**
@@ -30,4 +34,11 @@ The Mueller matrix generated using this code has been analysed with different sc
 
 
 The postprocessing was performed using MATLAB R2020b. 
+
+For any queries or doubts, raise a request or please write to: 
+Swathi Padmanabhan: swathip@iisc.ac.in
+or 
+Prof. Jaya Prakash: jayap@iisc.ac.in
+
+
 
