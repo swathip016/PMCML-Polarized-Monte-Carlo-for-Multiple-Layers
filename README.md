@@ -31,7 +31,15 @@ For more details on algorithmic details on Polarized Monte Carlo simulations, vi
 7. Postprocessing of data files and computation of Mueller matrix can be done using the data files in any IDE or GUI suitable.
 
 
-*****NOTE: Users can define their own values for absorption, scatterer size, wavelength and incident Stokes vector, refractive indices and layer thickness with number of layers.
+**INSTRUCTIONS FOR DEFINING VALUES**
+
+ Users can define the following parameters as required:
+ 1. Mie theory Parameters-wavelength, scattering coefficient and particle size.
+ 2. Layer parameters-slabsize, Refractive indices of medium and particle, layer thicknesses, number of layers
+ 3. User can define required polarized state as incidence
+
+
+*****NOTE: The code os not generalised to take any input values as number of layers. The code developed has considered only 3 layers for modelling. Extending it for more than three will necessitate corresponding changes in all modules and functions.
 **
 
 
