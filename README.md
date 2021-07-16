@@ -39,7 +39,7 @@ For more details on algorithmic details on Polarized Monte Carlo simulations, vi
  3. User can define required polarized state as incidence
 
 
-*****NOTE: The code os not generalised to take any input values as number of layers. The code developed has considered only 3 layers for modelling. Extending it for more than three will necessitate corresponding changes in all modules and functions.
+*****NOTE: The code is not generalised to take any input values as number of layers. The code developed has considered only 3 layers for modelling. Extending it for more than three will necessitate corresponding changes in all modules and functions.
 **
 
 
